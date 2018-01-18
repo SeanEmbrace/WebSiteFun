@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Embrace"
-date:   2016-04-06
+date:   2018-15-1
 excerpt: "Growing for good."
 project: true
 tag:
@@ -9,8 +9,10 @@ tag:
 - moon
 - blog
 - about
-- theme
+- embrace
 comments: true
 ---
 
-Working on my website with this sweet Jekyll Theme!
+Working on my programming/git skills with this sweet Jekyll Theme!
+
+*Look mom no mouse!*
