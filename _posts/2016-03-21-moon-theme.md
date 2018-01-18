@@ -6,7 +6,6 @@ excerpt: "Growing for good."
 project: true
 tag:
 - jekyll 
-- moon
 - blog
 - about
 - embrace
