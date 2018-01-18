@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Embrace"
-date:   2018-15-1
+date:   2018-1-15
 excerpt: "Growing for good."
 project: true
 tag:
