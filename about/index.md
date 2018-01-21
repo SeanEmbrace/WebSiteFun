@@ -3,7 +3,7 @@ layout: page
 title: Sean is a musician and a advocate of embrace.
 tags: [about, SeanEmbrace, Profile, Embrace]
 date: 2016-03-21
-comments: True
+comments: False
 ---
     
 <center>Embrace: accept or support (a belief, theory, or change) willingly and enthusiastically</center>
