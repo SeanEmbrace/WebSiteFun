@@ -9,7 +9,7 @@ tag:
 - blog
 - about
 - embrace
-comments: false
+comments: true
 ---
 
 Working on my programming/git skills with this sweet Jekyll Theme!
