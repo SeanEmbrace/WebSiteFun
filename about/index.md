@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sean is a musician and advocate of embrace.
+title: Sean is a musician and advocate of universal embrace.
 tags: [about, SeanEmbrace, Profile, Embrace]
 date: 2016-03-21
 comments: False
