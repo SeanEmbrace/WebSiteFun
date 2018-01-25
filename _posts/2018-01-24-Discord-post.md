@@ -9,4 +9,4 @@ tag:
 - chat
 comments: false
 ---
-<iframe src="https://discordapp.com/widget?id=389540173693714434&theme=dark" align="center" width="790" height="300"    allowtransparency="true" frameborder="0"></iframe>
+<iframe src="https://discordapp.com/widget?id=389540173693714434&theme=dark" align="center" width="600" height="300"    allowtransparency="true" frameborder="0"></iframe>
