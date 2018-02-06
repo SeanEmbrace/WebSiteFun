@@ -1,8 +1,8 @@
-# Jekyll-Mono
+# Sean Lasater
 
-**Jekyll-Mono** is a simple and elegant GitHub Profile cum Blog theme based on Barry Clark's [Jekyll-Now](https://github.com/barryclark/jekyll-now). It's a result of my attempt to learn **Jekyll** and create a minimalistic theme to put up my CV alongwith some blog posts.
+**Sean Lasater** is a simple human trying to build tools for the good of the world. [Embrace](https://seanembrace.github.io/). It's a result of my attempt to learn **Programming** and create a minimalistic website/hub for my projects.
 
-It is crafted with 💙 by [Akshay Agarwal](https://github.com/AkshayAgarwal007).
+Created by [Sean Lasater](https://github.com/SeanEmbrace).
 
 ![Jekyll-Mono Home Page](/images/ss.png)
 
