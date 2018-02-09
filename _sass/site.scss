@@ -69,14 +69,14 @@ body {
 	-ms-flex-align: center;
 	align-items: center;
 }
-/*.container {
+.container {
 	width: 36rem;
 	max-width: 550px;
 	padding-right: 15px;
 	padding-left: 15px;
 	@include center-block();
-	background-color: $white;
-	color: $color_shark;
+	//background-color: $white;
+	//color: $color_shark;
 	z-index: 1;
 	border-radius: 3px;
 	box-shadow: 0 0 10px 0 rgba($color_shark,0.3);
@@ -89,7 +89,6 @@ body {
 		width: 80%;
 	}
 }
-*/
 .row {
 	margin-top: 15px;
 	text-align: center;
